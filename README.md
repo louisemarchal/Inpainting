@@ -1,0 +1,2 @@
+# Inpainting
+L'inpainting en image s'attache à la reconstruction d'images détériorées ou au remplissage de parties manquantes (éliminer une personne ou un objet d'une image par exemple). Ce projet est consacrée à l'implémentation d'une technique d'inpainting utilisant le Lasso et sa capacité à trouver une solution parcimonieuse en terme de poids. L'idée principale est de considérer qu'un signal complexe peut être décomposé comme une somme pondérée de signaux élémentaires, appelés atomes. 
